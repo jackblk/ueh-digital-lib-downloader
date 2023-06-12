@@ -11,4 +11,8 @@ Install dependencies:
 
 Edit `DOCUMENT_LINK` and `COOKIES_RAW` in `main.py`.
 
+How to get cookies:
+
+<img src="https://github.com/jackblk/ueh-digital-lib-downloader/assets/12843654/335ef823-2b25-46ac-b944-2a1da06ce2bb">
+
 Run script: `python main.py`
